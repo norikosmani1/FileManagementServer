@@ -1,0 +1,12 @@
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\bin\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.deps.json
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\bin\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.dll
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\bin\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.pdb
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.dll
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.pdb
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.AssemblyInfo.cs
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.csproj.CopyComplete
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.dll
+C:\Projects\FileManagementServer\FileManagementServer.Infrastructure.Data\obj\Debug\netcoreapp3.1\FileManagementServer.Infrastructure.Data.pdb

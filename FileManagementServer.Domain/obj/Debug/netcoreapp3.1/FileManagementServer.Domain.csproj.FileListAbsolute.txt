@@ -1,0 +1,12 @@
+C:\Projects\FileManagementServer\FileManagementServer.Domain\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.deps.json
+C:\Projects\FileManagementServer\FileManagementServer.Domain\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.runtimeconfig.json
+C:\Projects\FileManagementServer\FileManagementServer.Domain\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.runtimeconfig.dev.json
+C:\Projects\FileManagementServer\FileManagementServer.Domain\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.dll
+C:\Projects\FileManagementServer\FileManagementServer.Domain\bin\Debug\netcoreapp3.1\FileManagementServer.Domain.pdb
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.csprojAssemblyReference.cache
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.AssemblyInfoInputs.cache
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.AssemblyInfo.cs
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.dll
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.pdb
+C:\Projects\FileManagementServer\FileManagementServer.Domain\obj\Debug\netcoreapp3.1\FileManagementServer.Domain.genruntimeconfig.cache
